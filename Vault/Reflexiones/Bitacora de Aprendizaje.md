@@ -9,7 +9,7 @@ Definí los seis ejes temáticos que estructurarían la Vault (fundamentos, natu
 Comencé por [[Datos]], [[Información]] y [[Conocimiento]], ya que son la base sobre la que se apoya el resto del vocabulario del libro.
 
 ## Etapa 3 — Desarrollo del MOC
-Construí el [[Vault/MOC/Mapa General de Visualización de Datos|Mapa General de Visualización de Datos]] como centro de navegación, agrupando las notas por eje temático.
+Construí el [[Mapa General de Visualización de Datos|Mapa General de Visualización de Datos]] como centro de navegación, agrupando las notas por eje temático.
 
 ## Etapa 4 — Relaciones cruzadas
 Revisé cada nota para asegurar que tuviera al menos un enlace hacia un concepto de un eje temático distinto (por ejemplo, [[Ética de los Datos y Sesgos]] conecta calidad de datos con buenas prácticas), evitando nodos aislados.

@@ -44,7 +44,7 @@ visualizacion-datos-u1-rojas-gabriel/
 
 ![Graph View de la Vault](Evidencias/GraphView.png)
 
-> **Nota de trazabilidad:** esta imagen fue generada de forma programática a partir de los enlaces `[[wikilink]]` reales existentes entre las 34 notas de la Vault (34 nodos, 132 relaciones, 0 nodos aislados), replicando la lógica de agrupación y fuerza del Graph View de Obsidian. Se recomienda reemplazarla por una captura de pantalla tomada directamente desde la aplicación Obsidian antes de la entrega final, abriendo la carpeta `Vault/` como bóveda.
+> **Nota de trazabilidad:** captura real tomada desde la aplicación Obsidian (v1.13.7), abriendo `Vault/` como bóveda. Muestra las 34 notas interconectadas mediante enlaces `[[wikilink]]`, sin nodos aislados.
 
 ## Aprendizajes Obtenidos
 

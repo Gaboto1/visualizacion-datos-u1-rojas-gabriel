@@ -4,7 +4,7 @@
 
 Alcalde Perea, I. *Visualización de la información: De los datos al conocimiento*.
 
-Esta obra es la base conceptual de toda la Vault. Su idea central —que los datos solo generan valor cuando son transformados progresivamente en información y luego en conocimiento accionable— estructura los seis ejes temáticos del [[Vault/MOC/Mapa General de Visualización de Datos|Mapa General de Visualización de Datos]].
+Esta obra es la base conceptual de toda la Vault. Su idea central —que los datos solo generan valor cuando son transformados progresivamente en información y luego en conocimiento accionable— estructura los seis ejes temáticos del [[Mapa General de Visualización de Datos|Mapa General de Visualización de Datos]].
 
 > **Nota de trazabilidad:** las notas conceptuales de esta Vault fueron redactadas integrando la lectura del libro con el marco general de la disciplina (principios de percepción visual, codificación de datos y buenas prácticas ampliamente aceptados en visualización de información). Se recomienda contrastar cada resumen personal con el capítulo correspondiente del libro para enriquecerlo con citas textuales específicas del autor.
 
