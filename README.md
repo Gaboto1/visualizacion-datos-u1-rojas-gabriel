@@ -4,7 +4,7 @@
 
 - **Nombre del estudiante:** Gabriel Rojas
 - **Asignatura:** Visualización de Datos
-- **Carrera:** *(completar según la malla del estudiante — ej. Ingeniería en Informática / Analista Programador)*
+- **Carrera:** Ingeniería en Informática
 - **Fecha:** Septiembre de 2026
 
 ## Descripción del Proyecto
