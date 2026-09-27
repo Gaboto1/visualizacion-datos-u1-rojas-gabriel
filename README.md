@@ -22,7 +22,7 @@ Este repositorio contiene la evaluación sumativa de la Unidad 1: *Construcción
 ```
 visualizacion-datos-u1-rojas-gabriel/
 ├── README.md
-├── Vault/                      # Bóveda de Obsidian (VisualizacionDatos_Rojas_Gabriel)
+├── VisualizacionDatos_Rojas_Gabriel/   # Bóveda de Obsidian (Vault)
 │   ├── MOC/                    # Mapa General de Visualización de Datos (nodo central de navegación)
 │   ├── Conceptos/               # 31 notas conceptuales (Definición, Resumen Personal, Importancia, Relacionado con)
 │   ├── Referencias/              # Fuente bibliográfica y fuentes de datos utilizadas
@@ -44,7 +44,7 @@ visualizacion-datos-u1-rojas-gabriel/
 
 ![Graph View de la Vault](Evidencias/GraphView.png)
 
-> **Nota de trazabilidad:** captura real tomada desde la aplicación Obsidian (v1.13.7), abriendo `Vault/` como bóveda. Muestra las 34 notas interconectadas mediante enlaces `[[wikilink]]`, sin nodos aislados.
+> **Nota de trazabilidad:** captura real tomada desde la aplicación Obsidian (v1.13.7), abriendo `VisualizacionDatos_Rojas_Gabriel/` como bóveda. Muestra las 34 notas interconectadas mediante enlaces `[[wikilink]]`, sin nodos aislados.
 
 ## Aprendizajes Obtenidos
 
